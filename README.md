@@ -11,7 +11,7 @@ made use of Flask to provied for a basic web application interface as a wrapper 
 Acheived a accuracy of 71% on the test set for the parsed dataset
 
 
-Run the program using - python start.py
+Run the program using - $ python start.py
 
 Use endpoint: http://localhost/node/7777
 
