@@ -10,7 +10,7 @@ made use of Flask to provide a basic web application interface as a wrapper for 
 
 **Libraries used -**
 
-Keras 2.0
+Keras 2.0 
 Flask - Micro webframework for python
 
 **Results -**
