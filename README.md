@@ -3,7 +3,7 @@
 The goal of the project is to predict and label a movie plot summary with its appropriate genre label. project is based on Recurrent Neural Networks using LSTM units for labelling.
 
 
-Description - 
+**Description - **
 
 The project is web application made using Flask web framework to provide an interface to access the trained R-NN model, the app takes in a plot as the input parameter and predicts the genre of the movie plot. The application on its initial run would take sometime time to train the network locally and stores the trained model within its local file system to be accessed to for later prediction, where we would used the already trained model to predict the genre of the plot provided.
 
